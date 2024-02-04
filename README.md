@@ -1,6 +1,6 @@
 ### Hey welcome to my Github page!
 
-I'm Simon and I am currently a third year CS student at UCSC.  
+I'm Simon and I am currently a fourth year CS student at UCSC.  
 
 <p align="left" style="font-size:300%">
   <a href="https://www.linkedin.com/in/simon-kwong-80b847245/">
