@@ -15,4 +15,4 @@ I'm Simon and I am currently a fourth year CS student at UCSC.
 </p>
 
 ### Statistics
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sikwong2&theme=tokyonight)](https://github.com/sikwong2/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sikwong2&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
