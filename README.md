@@ -1,4 +1,3 @@
-### Hey welcome to my Github page!
 
 I'm Simon
 
